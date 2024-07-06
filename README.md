@@ -1,4 +1,4 @@
-# Creating-a-Sales-Dashboard
+# Dynamic Sales Insights Dashboard
 
 Objective: To develop an interactive sales dashboard using SQL and Power BI to visualise
 sales performance, trends, and insights.
